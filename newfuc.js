@@ -14,4 +14,14 @@
 //var myfunc = name => `Hello ${name}`
 var myfunc = (name,prof) => `Hello ${name}, your profession is ${prof}`
 
+var calc = (prices) => {
+    var total = 0;
+
+    for(p of prices){
+        total += p
+    }
+
+    return total;
+}
+
 //myfunc()
