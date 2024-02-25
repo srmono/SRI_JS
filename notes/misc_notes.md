@@ -23,7 +23,10 @@
 ## Window Events
 - https://www.educba.com/javascript-window-events/
 
-# Keyboard_Events
+## Keyboard_Events
 - https://www.scaler.com/topics/keyboard-events-in-javascript/
 - https://www.javascripttutorial.net/javascript-dom/javascript-keyboard-events/
 
+
+## Es6 Concepts
+- https://www.javascripttutorial.net/es6/ 

@@ -24,3 +24,13 @@ const student = {
 //         `${k} : ${student[k]}`
 //     )
 // }
+
+
+const student2 = {
+  name: "Alice",
+  age: 20,
+  grade: "A",
+  getName: () => {
+    this
+ }
+};
